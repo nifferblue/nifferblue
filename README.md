@@ -67,16 +67,35 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 
-## Certifications & Badges
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🏅 Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <!-- CompTIA -->
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    
 </div>
+
+## 🌐 Verified Digital Badges
+<div>
+    <a href="https://www.credly.com/earner/earned/badge/127b313e-2fe1-438b-9e29-321ee5477cbe" target="_blank">
+        <img src="https://img.shields.io/badge/-AWS_Knowledge%3A_Serverless-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    </a>
+    <a href="https://www.credly.com/earner/earned/badge/8ed06fa7-5718-4778-a6b0-25c54c1363b9" target="_blank">
+        <img src="https://img.shields.io/badge/-Cisco_Intro_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
+    </a>
+    <a href="https://www.credly.com/earner/earned/badge/d636d1bf-3bde-4b6f-9306-5852b40ef4e0" target="_blank">
+        <img src="https://img.shields.io/badge/-Cisco_Networking_Basics-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
+    </a>
+</div>
+
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+## 📝 Blog
+<div>
+    <a href="https://medium.com/@jeniffer2" target="_blank">
+        <img src="https://img.shields.io/badge/-My%20Cybersecurity%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    </a>
+</div>
+

@@ -69,8 +69,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## 🏅 Certifications
 <div>
-    <!-- CompTIA -->
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <a href="https://academy.tcm-sec.com/courses/2631779/certificate" target="_blank">
+        <img src="https://img.shields.io/badge/-Linux_100%3A_Fundamentals_by_TCM_Security-0C223F?style=for-the-badge&logo=linux&logoColor=white" />
+    </a>
     
 </div>
 

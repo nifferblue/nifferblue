@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Jeniffer Onsomu
 
-![Jeniffer's Photo](https://your-photo-link.jpg) <!-- Replace with your actual image link -->
+<img src="https://github.com/nifferblue/nifferblue/blob/main/Passport.png" width="200" style="border-radius: 50%;" alt="Jeniffer Onsomu"/>
 
-🎯 **Security Analyst | Defender of Digital Frontiers**  
+
+🎯 **Security Analyst**  
 _A proactive and detail-oriented cybersecurity professional passionate about network defense, secure software development, and incident response._
 
 ---
@@ -13,7 +14,7 @@ _A proactive and detail-oriented cybersecurity professional passionate about net
 - 📧 Email: nyabokejeniffer2@gmail.com  
 - 🌍 Location: Nairobi, Kenya  
 - 🔗 LinkedIn: [linkedin.com/in/jenifferonsomu](https://www.linkedin.com/in/jenifferonsomu)  
-- 🐱 GitHub: [github.com/jenifferonsomu](https://github.com/jenifferonsomu) <!-- Replace with your GitHub if available -->
+- 🐱 GitHub: [github.com/jenifferonsomu](https://github.com/nifferblue) <!-- Replace with your GitHub if available -->
 
 ---
 
@@ -31,7 +32,7 @@ Currently gaining hands-on experience through **CyberShujaa**, aiming to strengt
 
 - **BSc. Information Systems & Technology**  
   United States International University – Africa (USIU-A), Nairobi, Kenya  
-  _Graduated: September 2021_
+  
 
 - **Software Engineering (Remote Bootcamp)**  
   Azubi Africa  
@@ -139,7 +140,4 @@ Currently gaining hands-on experience through **CyberShujaa**, aiming to strengt
 
 ---
 
-## 🌟 Quote to Remember
 
-> _"Cybersecurity isn’t just a job—it’s a calling to protect, detect, and defend the digital world."_  
-> — Jeniffer Onsomu

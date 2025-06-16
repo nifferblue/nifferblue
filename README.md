@@ -6,15 +6,7 @@
 🎯 **Security Analyst**  
 _A proactive and detail-oriented cybersecurity professional passionate about network defense, secure software development, and incident response._
 
----
 
-## 📍 Contact Information
-
-- 📞 Phone: +254 741 440 350  
-- 📧 Email: nyabokejeniffer2@gmail.com  
-- 🌍 Location: Nairobi, Kenya  
-- 🔗 LinkedIn: [linkedin.com/in/jenifferonsomu](https://www.linkedin.com/in/jenifferonsomu)  
-- 🐱 GitHub: [github.com/jenifferonsomu](https://github.com/nifferblue) <!-- Replace with your GitHub if available -->
 
 ---
 
@@ -140,4 +132,12 @@ Currently gaining hands-on experience through **CyberShujaa**, aiming to strengt
 
 ---
 
+## 📍 Contact Information
 
+- 📞 Phone: +254 741 440 350  
+- 📧 Email: nyabokejeniffer2@gmail.com  
+- 🌍 Location: Nairobi, Kenya  
+- 🔗 LinkedIn: [linkedin.com/in/jenifferonsomu](https://www.linkedin.com/in/jenifferonsomu)  
+- 🐱 GitHub: [github.com/jenifferonsomu](https://github.com/nifferblue) <!-- Replace with your GitHub if available -->
+
+---

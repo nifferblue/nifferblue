@@ -1,71 +1,112 @@
-# Hello, I'm JENIFFER ONSOMU
+# 👋 Hello, I'm Jeniffer Onsomu
 
+![Jeniffer's Photo](https://your-photo-link.jpg) <!-- Replace with your actual image link -->
 
-<a href="https://linkedin.com/jenifferonsomu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+🎯 **Security Analyst | Defender of Digital Frontiers**  
+_A proactive and detail-oriented cybersecurity professional passionate about network defense, secure software development, and incident response._
 
+---
 
-I am a recent graduate specializing in cybersecurity, with a strong passion for protecting digital assets and securing information systems. 
+## 📍 Contact Information
 
-## Objective
+- 📞 Phone: +254 741 440 350  
+- 📧 Email: nyabokejeniffer2@gmail.com  
+- 🌍 Location: Nairobi, Kenya  
+- 🔗 LinkedIn: [linkedin.com/in/jenifferonsomu](https://www.linkedin.com/in/jenifferonsomu)  
+- 🐱 GitHub: [github.com/jenifferonsomu](https://github.com/jenifferonsomu) <!-- Replace with your GitHub if available -->
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 🧠 Profile Summary
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+Detail-oriented **Junior Security Analyst** with a solid foundation in information systems, software development, and cloud technologies. Experienced in:
+- Vulnerability assessment
+- Secure application development
+- Log analysis and network traffic monitoring  
+Currently gaining hands-on experience through **CyberShujaa**, aiming to strengthen SOC skills and contribute to safeguarding digital systems.
 
-## Tools
+---
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  
-</div>
+## 🎓 Education
 
+- **BSc. Information Systems & Technology**  
+  United States International University – Africa (USIU-A), Nairobi, Kenya  
+  _Graduated: September 2021_
 
-## 🖥️ Operating Systems & Virtualization
-<div>
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-</div>
+- **Software Engineering (Remote Bootcamp)**  
+  Azubi Africa  
+  _Completed: June 2024_
 
-## 🔍 Reconnaissance & Enumeration
-<div>
-    <img src="https://img.shields.io/badge/-WHOis-0078D4?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-nslookup-005571?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-dig-3F87A6?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-dnsdumpster-4B275F?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Shodan-000000?&style=for-the-badge&logo=shodan&logoColor=white" />
-</div>
+- **Cybersecurity Analyst Trainee**  
+  CyberShujaa Program  
+  _Ongoing_
 
-## 🔧 Scanning & Exploitation Tools
-<div>
-    <img src="https://img.shields.io/badge/-Nmap-4B8BBE?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Gobuster-555555?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Netcat-003B57?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Searchsploit-E34F26?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Metasploit-5C2D91?&style=for-the-badge&logo=metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-smbclient-0F7C8F?&style=for-the-badge" />
-</div>
+---
 
-## 🔗 Remote Access & Protocol Tools
-<div>
-    <img src="https://img.shields.io/badge/-xfreerdp-6A5ACD?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-SSH-2C3E50?&style=for-the-badge&logo=OpenSSH&logoColor=white" />
-</div>
+## 🧰 Key Skills
 
-## 💻 Programming & Scripting
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-</div>
+| Category                           | Skills/Tools                                           |
+|-----------------------------------|--------------------------------------------------------|
+| 🛡️ Security Fundamentals           | Risk Assessment, Vulnerability Scanning               |
+| 🐧 Operating Systems               | Linux, Shell Scripting                                |
+| 📊 Monitoring & Response           | SIEM (Basic), Log Analysis, Incident Response         |
+| 🌐 Network Security                | Traffic Monitoring, DNS, Passive Reconnaissance       |
+| 🔐 Secure Coding Practices         | XSS/SQLi Prevention, JWT Authentication               |
+| 🧠 Soft Skills                     | Problem Solving, Collaboration, Documentation         |
 
+---
+
+## 💼 Professional Experience
+
+### 💻 Software Engineering Intern – Realbiz Digital (Nairobi, Kenya)  
+📅 May 2025 – Present
+- Built secure authentication flows using JWT & Firebase Auth
+- Applied data sanitization to prevent XSS and SQLi
+- Developed API endpoints with secure error handling
+- Integrated basic encryption to protect data in transit and at rest
+
+### 🏦 Software Engineering Intern – Equity Bank (Kisii, Kenya)  
+📅 Sep 2023 – Dec 2023
+- Resolved over 15 bugs improving system stability by 75%
+- Participated in security-focused code reviews
+- Hardened UI/UX against common attack vectors
+- Conducted compliance checks and risk audits
+
+---
+
+## 💻 Projects
+
+### 🕵️‍♀️ Passive Reconnaissance – TryHackMe
+- Performed open-source intelligence (OSINT) gathering on targets
+- Learned about domain enumeration and subdomain mapping
+- Tools: WHOIS, dig, Shodan
+
+### 🐍 Python Scripting – TryHackMe
+- Wrote scripts for port scanning, log parsing, and threat hunting
+- Automated data extraction and brute-force simulations
+
+### 🔧 Secure REST API Development
+- Built an API with secure authentication (JWT)
+- Implemented access control and encrypted sensitive data
+- Used input validators to prevent common web attacks
+
+---
+
+## 🧪 Lab Challenges & CTFs
+
+### 🌐 DNS in Detail – TryHackMe
+- Explored DNS records (A, AAAA, MX, TXT)
+- Simulated DNS spoofing and packet sniffing
+
+### 🧠 Networking Fundamentals – HackTheBox Academy
+- Understood IP addressing, CIDR, and routing
+- Analyzed packets using Wireshark
+
+### 🐧 Linux, Windows, and Web Fundamentals – HackTheBox
+- Navigated OS command-line environments
+- Exploited web application flaws and file permissions
+
+---
 
 ## 🏅 Certifications
 <div>
@@ -89,14 +130,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
+---
 
 ## 📝 Blog
-<div>
-    <a href="https://medium.com/@jeniffer2" target="_blank">
-        <img src="https://img.shields.io/badge/-My%20Cybersecurity%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
-</div>
 
+📰 [Read My Cybersecurity Blog on Medium](https://medium.com/@jeniffer2)
+
+---
+
+## 🌟 Quote to Remember
+
+> _"Cybersecurity isn’t just a job—it’s a calling to protect, detect, and defend the digital world."_  
+> — Jeniffer Onsomu
